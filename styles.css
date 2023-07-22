@@ -1,0 +1,61 @@
+body {
+	background-color: black;
+	margin-left: 20%;
+}
+
+h1 {
+	background-color: red;
+	border-radius: 40px;
+	text-align: center;
+	width: 35%;
+
+}
+
+a {
+  text-decoration: none;
+	font-size: 40px;
+	background-color: #333333;
+	border-radius: 15px;
+}
+
+a:hover {
+	color: violet;
+	border-style: solid;
+	border-color: red;
+	
+}
+
+button {
+	background-color: green;
+	width: 150px;
+	height: 40px;
+	margin-bottom: 15px;
+}
+
+button:hover {
+	background-color: lightgreen;
+	width: 153px;
+	height: 43px;
+	border-style: solid;
+	border-color: red;
+}
+
+.box{
+	color: white;
+	border-style: dotted;
+	border-radius: 5px;
+	border-color: red;
+	display: inline-block;
+	padding: 5px;
+}
+
+.hidden {
+	display: none;
+}
+
+#rest_butt {
+	background-color: wheat;
+	position: absolute;
+	right: 50px;
+	bottom: 260px;
+}
